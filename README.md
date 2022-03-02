@@ -1,7 +1,11 @@
-# Blog
+# Ca&o Blog
+
+# Click [here](https://caiokenedy.github.io/FlexBlog/) to go this project. 
 
 
-website builded with flex-box to practice and fix some knowledge
+Practicing Flexbox content learned during Origamid CSS Flexbox course.
 
 
-
+Details :
+- Responsive
+- Entire builded with flexbox
